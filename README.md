@@ -4,8 +4,6 @@ Disposable email is a Golang library for dealing with blocked disposable email l
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 ```bash
 $ go get github.com/RifanNurmuhammad/disposable-email-go
 ```
