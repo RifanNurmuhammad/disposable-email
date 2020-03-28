@@ -16,7 +16,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/RifanNurmuhammad/disposable-email-go"
+	disposableemail "github.com/RifanNurmuhammad/disposable-email-go"
 )
 
 func main() {
